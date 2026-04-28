@@ -23,6 +23,7 @@ Enquanto a nossa extensão passa pelo processo de aprovação final nas lojas of
 ### 🟢 Para Google Chrome, Edge, Brave e Opera
 
 1. Faça o download do arquivo `.zip` da extensão e extraia a pasta no seu computador.
+[Download](https://github.com/HeroLeam/oneplink-extension/releases/download/v1.0.0/oneplink-extension-chromium.zip)
 2. Abra o seu navegador e acesse a página de gerenciamento de extensões:
    - **Chrome / Brave / Opera:** Digite `chrome://extensions/` na barra de endereços e aperte Enter.
    - **Edge:** Digite `edge://extensions/` na barra de endereços e aperte Enter.
@@ -34,6 +35,7 @@ Enquanto a nossa extensão passa pelo processo de aprovação final nas lojas of
 ### 🦊 Para Mozilla Firefox
 
 1. Faça o download do arquivo `.zip` da extensão e extraia a pasta no seu computador.
+[Download](https://github.com/HeroLeam/oneplink-extension/releases/download/v1.0.0/oneplink-extension-mozilla.zip)
 2. Abra o seu Firefox e digite na barra de endereços: `about:debugging#/runtime/this-firefox`
 3. Clique no botão **"Carregar extensão temporária..."** (Load Temporary Add-on...).
 4. Navegue até a pasta `oneplink-firefox` que você extraiu e selecione o arquivo `manifest.json`.
