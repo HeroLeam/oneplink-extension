@@ -20,7 +20,7 @@ Esta é uma ferramenta premium desenvolvida para otimizar o fluxo de trabalho do
 
 Enquanto a nossa extensão passa pelo processo de aprovação final nas lojas oficiais, você já pode liberar este recurso no seu navegador seguindo os passos abaixo:
 
-### 🟢 Para Google Chrome, Edge, Brave e Opera
+### 🟢 Para Google Chrome, Edge, Brave, Opera e outro baseados em Chromium
 
 1. Faça o download do arquivo `.zip` da extensão e extraia a pasta no seu computador.
 [Download](https://github.com/HeroLeam/oneplink-extension/releases/download/v1.0.0/oneplink-extension-chromium.zip)
@@ -29,7 +29,7 @@ Enquanto a nossa extensão passa pelo processo de aprovação final nas lojas of
    - **Edge:** Digite `edge://extensions/` na barra de endereços e aperte Enter.
 3. No canto superior direito da tela, ative a chave **"Modo do desenvolvedor"** (Developer mode).
 4. Vão aparecer novos botões. Clique em **"Carregar sem compactação"** (Load unpacked).
-5. Selecione a pasta `oneplink-chrome-edge` que você acabou de extrair.
+5. Selecione a pasta `oneplink-extension-chromium` que você acabou de extrair.
 6. **Pronto!** Clique no ícone de "quebra-cabeça" na barra do seu navegador e fixe o logotipo do One Place Link para ter seu dashboard sempre à vista.
 
 ### 🦊 Para Mozilla Firefox
@@ -38,7 +38,7 @@ Enquanto a nossa extensão passa pelo processo de aprovação final nas lojas of
 [Download](https://github.com/HeroLeam/oneplink-extension/releases/download/v1.0.0/oneplink-extension-mozilla.zip)
 2. Abra o seu Firefox e digite na barra de endereços: `about:debugging#/runtime/this-firefox`
 3. Clique no botão **"Carregar extensão temporária..."** (Load Temporary Add-on...).
-4. Navegue até a pasta `oneplink-firefox` que você extraiu e selecione o arquivo `manifest.json`.
+4. Navegue até a pasta `oneplink-extension-mozilla` que você extraiu e selecione o arquivo `manifest.json`.
 5. **Pronto!** A extensão já está vinculada e pronta para uso no seu Firefox.
 
 ---
